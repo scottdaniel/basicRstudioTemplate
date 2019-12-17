@@ -1,16 +1,16 @@
 # rstudio_template
-Rstudio template for the Penn CHOP Microbiome Program
+Rstudio template for the basic bioinformatics of microbiomes
 
-## !This relies on the installation of: https://github.research.chop.edu/MicrobiomeCenter/basicTemplate!
+## !This relies on the installation of: https://github.com/scottdaniel/basicTemplate!
 
 ## Install
 ```
 if (!requireNamespace("devtools")) install.packages("devtools")
-devtools::install_github(repo = "MicrobiomeCenter/rstudio_template", host = "github.research.chop.edu/api/v3")
+devtools::install_github(repo = "scottdaniel/basicRstudioTemplate")
 ```
 ## Usage
-Once installed, you can create a new PCMP R project from the dialog in Rstudio: `File > New project...`
-Then, just select the `New Directory > PCMP Rstudio Template`
+Once installed, you can create a new  R project from the dialog in Rstudio: `File > New project...`
+Then, just select the `New Directory > Rstudio Template`
 
 Finally, fill in the project name, author, and the project type.
 
