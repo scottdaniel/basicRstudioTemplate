@@ -2,7 +2,7 @@
 # the New Project wizard using the project template defined in the template file
 # at:
 #
-#   inst/rstudio/templates/project/PCMP_rstudio_template.dcf
+#   inst/rstudio/templates/project/rstudio_template.dcf
 
 setup_files <- function(path, ...) {
 

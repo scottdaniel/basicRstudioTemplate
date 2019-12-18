@@ -1,5 +1,5 @@
 Binding: setup_files
-Title: PCMP Rstudio Template
+Title: Rstudio Template
 OpenFiles: creation_log
 
 Parameter: title
@@ -11,7 +11,7 @@ Position: left
 Parameter: author
 Widget: TextInput
 Label: Author of Project
-Default: PennCHOP Microbiome Program
+Default: Author_name_here
 Position: left
 
 Parameter: prj_type

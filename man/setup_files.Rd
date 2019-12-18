@@ -16,7 +16,7 @@ setup_files(path, ...)
   Path that is passed to the function by the dialog box. Concatenates the string values from 'Directory name:' and 'Create project as subdirectory of:'.
   }
   \item{...}{
-  Additional arguments passed by widgets in the dialog box that is defined by 'PCMP_rstudio_template.dcf'.
+  Additional arguments passed by widgets in the dialog box that is defined by 'rstudio_template.dcf'.
   }
 }
 \details{
